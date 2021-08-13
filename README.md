@@ -1,6 +1,6 @@
 - 👋 Hey, I’m @godrowr
 - 👀 Interested in kayaking, canoeing, rowing, hiking, and rock climbing.
-- 🌱 Currently learning : Ruby, Typescript, Flask, Docker
+- 🌱 Currently learning : Go, Ruby, Typescript, Flask, Docker
 - 💞️ I’m looking to collaborate on nothing right now.
 - 📫 You can reach me via ryangodrow [at] celisona [dot] com
 
